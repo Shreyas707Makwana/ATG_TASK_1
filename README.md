@@ -2,6 +2,17 @@
 
 A Sophisticated debate system of 8 rounds between two agents (scientist and philosopher). The DAG svg file of whole workflow is in repo along with the debate JSON log of debate in Demo Video.
 
+## 🎥 Demo Video
+
+A 2–4 minute walkthrough demonstrating:
+- CLI execution of the debate
+- 8-round strict turn-taking
+- Judge evaluation and winner determination
+- Generated logs and DAG visualization
+
+👉 **Demo Video Link:**  
+https://drive.google.com/file/d/1429nVr-22OwaT20yEhmtI-42kAqFbIfq/view?usp=drive_link
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
