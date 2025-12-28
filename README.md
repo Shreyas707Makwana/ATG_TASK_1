@@ -1,6 +1,6 @@
 # Multi-Agent Debate DAG using LangGraph
 
-A sophisticated debate simulation system implementing structured multi-agent debates with strict turn control, memory management, logging, and AI-powered judging using LangGraph.
+A Sophisticated debate system of 8 rounds between two agents (scientist and philosopher). The DAG svg file of whole workflow is in repo along with the debate JSON log of debate in Demo Video.
 
 ## 📋 Table of Contents
 
