@@ -639,7 +639,3 @@ This project is submitted as part of an ATG technical assignment.
 
 Shreyas Makwana - ATG Technical Assignment Submission  
 Multi-Agent Debate DAG using LangGraph
-
----
-
-**Last Updated**: December 26, 2025
