@@ -4,7 +4,7 @@ A Sophisticated debate system of 8 rounds between two agents (scientist and phil
 
 ## 🎥 Demo Video
 
-A 2–4 minute walkthrough demonstrating:
+A 3-4 minute walkthrough demonstrating:
 - CLI execution of the debate
 - 8-round strict turn-taking
 - Judge evaluation and winner determination
