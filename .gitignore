@@ -1,0 +1,66 @@
+# .gitignore for Multi-Agent Debate DAG
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Logs and outputs
+*.log
+*.jsonl
+debate_log_*.jsonl
+logs/
+test_*.jsonl
+
+# DAG visualizations (generated)
+debate_dag.png
+debate_dag.svg
+debate_dag_detailed.png
+*.gv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+temp/
